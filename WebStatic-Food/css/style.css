@@ -2,12 +2,13 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif ;
+    font-family: 'Poppins', sans-serif;
 }
 
 
 /* Navbar */
-.nav-link{
+
+.nav-link {
     color: white;
     margin-right: 40px;
 }
@@ -28,7 +29,9 @@
     border-radius: 40px;
 }
 
+
 /* about */
+
 .about span {
     color: orange;
 }
@@ -38,7 +41,7 @@
 }
 
 .about-social {
-    font-size: 1.4rem;
+    font-size: 2rem;
     margin-left: auto;
     margin-top: 50px;
 }
@@ -52,11 +55,13 @@
     color: gray;
 }
 
-#social i {
-    font-size: 2.2rem;
+.social i {
+    font-size: 2rem;
 }
 
+
 /* menu */
+
 .container h2 {
     margin-bottom: 10px;
 }
